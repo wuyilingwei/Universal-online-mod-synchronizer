@@ -1,0 +1,17 @@
+{
+    "name": "Game",
+    "location": "7daystodie",
+    "infoAPI": "https://raw.githubusercontent.com/wuyilingwei/file/main/7dtd.json",
+    "files": [
+      {
+        "url": "icon.png",
+        "hash": "2294d8f2cdb36ebaa5a34e8719fb55df055fa6a1",
+        "path": "textures/ui/icon.png"
+      },
+        {
+            "url": "icon2.png",
+            "hash": "2294d8f2cdb36ebaa5a34e8719fb55df055fa6a1",
+            "path": "textures/ui/icon2.png"
+        }
+    ]
+}
